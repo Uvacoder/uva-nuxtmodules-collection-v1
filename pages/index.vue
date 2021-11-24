@@ -14,7 +14,7 @@
         </p>
         <div class="max-w-xl mx-auto mt-2 text-center">
           <a href="https://github.com/nuxt/modules" rel="noopener" target="_blank" class="items-center space-x-1 leading-4 border-b text-md text-grey-light border-stone-green hover:text-green-500 hover:border-green-600">
-            Contribute on GitHub
+            Contribute on abc GitHub
           </a>
         </div>
       </div>
