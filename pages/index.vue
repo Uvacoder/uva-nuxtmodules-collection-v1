@@ -10,7 +10,7 @@
           Check out Nuxt Modules 
         </h1>
         <p class="max-w-xl mx-auto mt-5 text-lg leading-7 sm:text-xl text-rainy-grey">
-          Discover our list of modules to supercharge your <a href="https://nuxtjs.org" rel="noopener" target="_blank" class="border-b border-stone-green hover:text-green-500 hover:border-green-600">Nuxt project</a>. Created by the Nuxt team and community.
+          Discover the list of modules to supercharge your <a href="https://nuxtjs.org" rel="noopener" target="_blank" class="border-b border-stone-green hover:text-green-500 hover:border-green-600">Nuxt project</a>. Created by the Nuxt team and community.
         </p>
         <div class="max-w-xl mx-auto mt-2 text-center">
           <a href="https://github.com/nuxt/modules" rel="noopener" target="_blank" class="items-center space-x-1 leading-4 border-b text-md text-grey-light border-stone-green hover:text-green-500 hover:border-green-600">
