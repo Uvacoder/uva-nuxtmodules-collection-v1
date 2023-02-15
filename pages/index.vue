@@ -7,7 +7,7 @@
           <IconNuxt alt="Nuxt" />
         </div>
         <h1 class="mt-4 text-4xl font-extrabold leading-10 text-white sm:text-5xl sm:leading-none sm:tracking-tight lg:text-6xl">
-          Check out Nuxt Modules 
+          Check out these bookmarks
         </h1>
         <p class="max-w-xl mx-auto mt-5 text-lg leading-7 sm:text-xl text-rainy-grey">
           Discover the list of modules to supercharge your <a href="https://nuxtjs.org" rel="noopener" target="_blank" class="border-b border-stone-green hover:text-green-500 hover:border-green-600">Nuxt project</a>. Created by the Nuxt team and community.
